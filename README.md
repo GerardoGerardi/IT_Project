@@ -32,6 +32,6 @@
    o Петров Матфей   |(СП) Системное программирование; | (ВП) Внедрение(продажи);
                      | (НИ) Научные исследования; | (АД) Администрирование (тюнинг);
 ## ✅ Landing Page:  
- <a href=https://s7yka4.github.io/IT_Project> Landing page  </a> нашего проекта 
+ Ссылка на<a href=https://s7yka4.github.io/IT_Project> Landing page  </a> нашего проекта 
 ## ✅ Дополнительные материалы по проекту:  
   <a href=https://github.com/S7yka4/IT_Project> Будут если понадобятся
